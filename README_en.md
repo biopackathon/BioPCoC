@@ -75,7 +75,7 @@ Our team will be happy to help you get the relevant support (e.g. help contactin
 
 We value your attendance and participation at our events and in our community.
 
-##### 報告先
+##### Report to
 
 - Electronical Report: https://onl.sc/Vrj32WD
 - E-mail:
@@ -89,7 +89,7 @@ Generally, speakers are busy and have taken the time out of their busy schedules
 
 Some researchers believe that it is acceptable to be rude in a scientific discussion, that criticism of a research subject is not a personal attack, and that harsh language is expected of the person. The following are examples I have seen in the research industry (not just at this hackathon).
 
-- Abusive language:
+- Abusive language
     - "Hey."
     - "Trash."
     - "Shit."
@@ -102,8 +102,8 @@ Some researchers believe that it is acceptable to be rude in a scientific discus
     - "You're the worst, aren't you?"
     - "Can't you even understand that?"
     - "You've been saying the same thing over and over again."
-- Other:
-    - Not listening to the end of the speaker's speech, interrupting the speaker several times and putting one's own opinion on top of the speaker's
+- Other
+    - Not listening to the end of the speaker's speech, interrupting the speaker many times and putting one's own opinion on top of the speaker's
     - Tongue lashing
     - Yelling at the speaker
 
