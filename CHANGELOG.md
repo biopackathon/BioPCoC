@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/biopackathon/BioPCoC/compare/v1.0.0...v1.0.1) (2023-05-20)
+
+
+### Bug Fixes
+
+* ZENODO ([aa41ae5](https://github.com/biopackathon/BioPCoC/commit/aa41ae5986eef224c7ce56f13c9b6a424804e985))
+
 ## 1.0.0 (2023-05-20)
 
 
