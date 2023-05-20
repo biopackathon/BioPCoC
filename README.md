@@ -4,6 +4,7 @@
 以下は、本条項を利用する際の、クレジット記載例です。
 
 > 本コミュニティの行動規範は、[BioPCoC v1.0.0](https://github.com/biopackathon/BioPCoC)に準ずるものとする
+
 > 本コミュニティの行動規範は、[BioPCoC v1.0.0](https://github.com/biopackathon/BioPCoC)の「参加者へのお願い」を含む
 
 ## 行動規範
