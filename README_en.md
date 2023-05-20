@@ -3,9 +3,9 @@
 
 The contents of this Code of Conduct are adapted from [Bioconductor's Code of Conduct](https://bioconductor.github.io/bioc_coc_multilingual/), with some additions. This Code of Conduct is published under the MIT License and permits secondary use with appropriate copyright notice. The following is an example of a credit statement for use of this section.
 
-> The code of conduct of this community shall be in accordance with [BioPCoC v1.0.0](https://github.com/biopackathon/BioPCoC).
+> The code of conduct of this community shall be in accordance with [BioPCoC v1.0.2](https://github.com/biopackathon/BioPCoC).
 
-> The code of conduct for this community includes the "Request to Participants" in [BioPCoC v1.0.0](https://github.com/biopackathon/BioPCoC)
+> The code of conduct for this community includes the "Request to Participants" in [BioPCoC v1.0.2](https://github.com/biopackathon/BioPCoC)
 
 ## Code of Conduct
 ### Conflict of Interest
