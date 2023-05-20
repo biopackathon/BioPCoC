@@ -1,4 +1,5 @@
 # Bio"Pack"athon Code of Conduct (BioPCoC, báiou-píːkɑ`k)
+[![DOI](https://zenodo.org/badge/639704407.svg)](https://zenodo.org/badge/latestdoi/639704407)
 
 The contents of this Code of Conduct are adapted from [Bioconductor's Code of Conduct](https://bioconductor.github.io/bioc_coc_multilingual/), with some additions. This Code of Conduct is published under the MIT License and permits secondary use with appropriate copyright notice. The following is an example of a credit statement for use of this section.
 

@@ -1,4 +1,5 @@
 # Bio"Pack"athon Code of Conduct (BioPCoC、バイオピーコック)
+[![DOI](https://zenodo.org/badge/639704407.svg)](https://zenodo.org/badge/latestdoi/639704407)
 
 本行動規範の内容は、[Bioconductorの行動規範](https://bioconductor.github.io/bioc_coc_multilingual/)の一部を参考にしつつ、加筆したものです。本行動規範は、MITライセンスの下で公開しており、適切な著作権表示の上での二次利用を許可します。
 以下は、本条項を利用する際の、クレジット記載例です。
