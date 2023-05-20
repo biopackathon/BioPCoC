@@ -130,4 +130,4 @@ Rather, it should be phrased as follows:
 
 This will not make the other party feel uncomfortable and will increase the likelihood that your request will be granted, resulting in a win-win relationship. The following is an example of an Issue on the GitHub repository of an OSS tool. Please refer to it for reference.
 
-![](https://raw.githubusercontent.com/biopackathon/BioPCoC/main/figure/kana.png)
+![](https://raw.githubusercontent.com/biopackathon/BioPCoC/main/figure/kana_en.png)
