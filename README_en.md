@@ -3,9 +3,9 @@
 
 The contents of this Code of Conduct are adapted from [Bioconductor's Code of Conduct](https://bioconductor.github.io/bioc_coc_multilingual/), with some additions. This Code of Conduct is published under the MIT License and permits secondary use with appropriate copyright notice. The following is an example of a credit statement for use of this section.
 
-> The code of conduct of this community shall be in accordance with [BioPCoC v1.0.2](https://github.com/biopackathon/BioPCoC).
+> The code of conduct of this community shall be in accordance with [BioPCoC v1.0.3](https://github.com/biopackathon/BioPCoC).
 
-> The code of conduct for this community includes the "Request to Participants" in [BioPCoC v1.0.2](https://github.com/biopackathon/BioPCoC)
+> The code of conduct for this community includes the "Request to Participants" in [BioPCoC v1.0.3](https://github.com/biopackathon/BioPCoC)
 
 ## Code of Conduct
 ### Conflict of Interest
@@ -116,7 +116,9 @@ When participants ask questions or make comments to the speakers, we urge them t
 
 ### Show respect to OSS developers
 
-OSS is often developed and maintained by a very small number of developers. We are allowed to use OSS for free and conveniently, while we have the option of purchasing paid tools. Although the fee for a paid version of a tool may include a support fee for problems after purchase, it is only a volunteer category and not an obligation for OSS developers to respond to requests from users. Nevertheless, unfortunately, there are certain people who are rude to OSS developers. In some cases, they even ask us to help them with analysis work for free, and in other cases, development has been terminated due to complaints and anti-comments about the OSS. Keep in mind that it is the people with feelings who are actually working on the development of the OSS, and when making a request or asking a question to the OSS developer, try to be polite in your interactions, as indicated below.
+OSS is often developed and maintained by a very small number of developers. We are allowed to use OSS for free and conveniently, while we have the option of purchasing paid tools. Although the fee for a paid version of a tool may include a support fee for problems after purchase, it is only a volunteer category and not an obligation for OSS developers to respond to requests from users.
+
+Nevertheless, sadly, there are certain people who are rude to OSS developers. In some cases, they even ask develpers to help them with analysis work for free, and in other cases, development has been terminated due to complaints and anti-comments about the OSS. Keep in mind that it is the people with feelings who are actually working on the development of the OSS, and when making a request or asking a question to the OSS developer, try to be polite in your interactions, as indicated below.
 
 ### An example of friendly communication
 
