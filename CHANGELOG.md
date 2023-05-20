@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/biopackathon/BioPCoC/compare/v1.0.1...v1.0.2) (2023-05-20)
+
+
+### Bug Fixes
+
+* typo ([22113b3](https://github.com/biopackathon/BioPCoC/commit/22113b3ba0e52fc55328ff3eaf747be0b328cd72))
+* typo ([c4f13ec](https://github.com/biopackathon/BioPCoC/commit/c4f13ec35011813dbf30a29d9772ada814bc7f0b))
+
 ## [1.0.1](https://github.com/biopackathon/BioPCoC/compare/v1.0.0...v1.0.1) (2023-05-20)
 
 
