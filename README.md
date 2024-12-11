@@ -5,9 +5,9 @@
 
 以下は、本条項を利用する際の、クレジット記載例です。
 
-> 本コミュニティの行動規範は、[BioPCoC v1.0.4](https://github.com/biopackathon/BioPCoC)に準ずるものとする
+> 本コミュニティの行動規範は、[BioPCoC v1.0.6](https://github.com/biopackathon/BioPCoC)に準ずるものとする
 
-> 本コミュニティの行動規範は、[BioPCoC v1.0.4](https://github.com/biopackathon/BioPCoC)の「参加者へのお願い」を含む
+> 本コミュニティの行動規範は、[BioPCoC v1.0.6](https://github.com/biopackathon/BioPCoC)の「参加者へのお願い」を含む
 
 ## 行動規範
 ### 利益相反
